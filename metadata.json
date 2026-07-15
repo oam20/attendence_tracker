@@ -1,0 +1,6 @@
+{
+  "name": "Attendance Tracker",
+  "description": "A modern, responsive session attendance tracker with quick student login and an administrative panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
